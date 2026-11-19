@@ -1,0 +1,8 @@
+{
+  "name": "Remix Keliling Ceria — SD N 2 Selokaton",
+  "description": "Media pembelajaran interaktif bergamifikasi materi keliling bangun datar (segitiga, persegi, dan persegi panjang) kelas SD — SD N 2 Selokaton oleh Ibu Ihda Mar\u0027atus Sholihah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
